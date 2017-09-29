@@ -1,5 +1,5 @@
 --[[
-(c)Fawad Karimi 13 Jul 2016
+(c) FK 13 Jul 2016
 the code simulates electrons of energy  specified by the loop and writes their ion number and time of flight
 or other properties if desired into a file according to their initial kinetic energy
 -number of electrons are still defined in the simion gui at register particles!
