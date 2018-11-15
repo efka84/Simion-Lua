@@ -1,4 +1,4 @@
---[[ original author  unknown
+--[[ original author TH
 	improved by FK
 The code implements a genetic algorithm to improve the transmission of the spectrometer MDTOF_LANGand puts the results in a text file
 
